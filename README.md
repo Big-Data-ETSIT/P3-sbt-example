@@ -4,6 +4,9 @@ Simple example of sbt
 
 
 ```
+# enter the scala folder
+cd sbt-example/scala-example
+
 # compile
 sbt compile
 
