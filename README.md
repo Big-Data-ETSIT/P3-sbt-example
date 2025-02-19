@@ -1,5 +1,10 @@
 # sbt-example
 
+## Installation
+You can find the instructions to instal java, scala, and sbt in https://github.com/Big-Data-ETSIT/P5_spark_batch
+
+## Code
+
 Simple example of sbt
 
 
